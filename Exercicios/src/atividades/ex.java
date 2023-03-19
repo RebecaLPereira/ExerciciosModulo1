@@ -35,7 +35,7 @@ public class ex {
             }
         }
 
-        System.out.println("Soma dos valores da diagonal principal: "+somaPrincipal);
+        System.out.println("Soma dos valores da diagonal P.: "+somaPrincipal);
         System.out.println("Soma dos valores da diagonal secundária: "+somaSecundaria);
 
     }
