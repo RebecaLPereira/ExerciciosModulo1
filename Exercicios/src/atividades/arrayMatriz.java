@@ -39,7 +39,7 @@ public class arrayMatriz {
 
 
 
-        System.out.println("\nSoma dos valores da diagonal principal: "+somaPrincipal);
+        System.out.println("\nSoma dos valores da diagonal p.: "+somaPrincipal);
         System.out.print("Soma dos valores da diagonal secundária: "+somaSecundaria);
 
     }
